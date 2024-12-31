@@ -2,4 +2,8 @@
 
 [Click here to visit Chatlotte's Beautiful Allotment](https://softmonster.github.io/BeautifulAllotmentOfChartotte)
 
+
 [Some money saving idea's from Andrew] (https://softmonster.github.io/BeautifulAllotmentOfChartotte/SaveMoney.html)
+
+[Andrew's free exercise tips]
+(https://softmonster.github.io/BeautifulAllotmentOfChartotte/ExerciseForFree.html)
